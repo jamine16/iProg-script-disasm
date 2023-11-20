@@ -7,6 +7,7 @@ iProgDecompiler.py расшифровывает и создаёт листинг
 В папке [examples/сompiled](examples/сompiled) лежат несколько примеров скомилированных скриптов
 Декомпилированный результат в [examples/decompiled](examples/decompiled)
 
+English translation
 iProg script disassembler
 iProgDecompiler.py decrypts and produces an .ipr script listing with sample source code comments. Because Since the iProg compiler does not have optimization, it is quite easy to obtain the source code of the script from the listing. Of course, without saving the names of functions and variables
 
