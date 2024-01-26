@@ -1,5 +1,9 @@
 iProg script disassembler compiled in to a single easy to use .exe
 
+You will be prompted to select a file. Navigate to the desired .ipr script.
+
+The disassembled files will be generated in the same directory.
+
 # Дизассемблер скриптов iProg
 
 iProgDecompiler.py расшифровывает и создаёт листинг скрипта .ipr с коментариями примерного исходного кода. Т.к. компилятор iProg не имеет оптимизации, то из листинга довольно легко получить исходный код скрипта. Кончено же без сохранения имён функций и переменных
